@@ -5,8 +5,6 @@ body{
   font-family: system-ui, Arial, sans-serif;
   background: url(bkgd.jpg) no-repeat center/cover fixed;
   color:#111;
- 
- 
 }
 
 
@@ -121,6 +119,7 @@ body{
 #button:hover {
     background-color: #ff7300;
   }
+
 
 
  
