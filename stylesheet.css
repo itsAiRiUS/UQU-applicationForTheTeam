@@ -1,4 +1,11 @@
 
+@media screen and (max-width: 600px) {
+}
+@media screen and (min-width: 601px) and (max-width: 992px) {
+}
+@media screen and (min-width: 993px) {
+}
+
 *{box-sizing:border-box}
 body{
   margin:0;
@@ -123,3 +130,4 @@ body{
 
 
  
+
